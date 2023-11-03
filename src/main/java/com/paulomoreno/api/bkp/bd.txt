@@ -1,0 +1,7 @@
+INSERT INTO tb_departament (name) VALUES ('Tech');
+INSERT INTO tb_departament (name) VALUES ('Pet');
+
+INSERT INTO tb_product (name, price, departament_id) VALUES ('Macbook Pro', 4000.0, 1);
+INSERT INTO tb_product (name, price, departament_id) VALUES ('PC Gamer Rizen 5700U', 6500.0, 1);
+INSERT INTO tb_product (name, price, departament_id) VALUES ('Pet House', 300.0, 2);
+INSERT INTO tb_product (name, price, departament_id) VALUES ('Meat', 50.0, 2);
